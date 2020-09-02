@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+.container{
+    text-align: center;
+}
+
+p {
+    font-size:1.1rem;
+}
+
+h1,
+h3 {
+    text-align: center;
+}
+
+body{
+    background-color: rgb(240, 235, 235);
+}
+
+.img-id{
+    background-color: white;
+    text-align: center;
+    margin:10px;
+    padding-bottom:10px;
+}
+
+#img-caption{
+    margin-top:15px;
+}
+
+img {
+    width:auto;
+    height:auto;
+}
+
+ul {
+   
+}
+
+li {
+    text-align: left;
+    font-size:20px;
+    margin-top:20px;
+    margin-left:350px;
+    margin-right:350px;
+}
